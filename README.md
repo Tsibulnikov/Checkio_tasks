@@ -25,4 +25,9 @@ You can either look for solutions(.py) below or scroll [**jupyter notebook part1
 * [Split List](https://py.checkio.org/en/mission/split-list/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/Home/Split%20List.py)
 * [Sum Numbers](https://py.checkio.org/en/mission/sum-numbers/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/Home/Sum%20Numbers.py)
 
+## O'Reily station
+You can either look for solutions(.py) below or scroll [**jupyter notebook**](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/O'Reilly%20p.1%20%5BElementary%2C%20%2B%5D.ipynb) for more **comfortable** examination.
 
+* [Replace Last](https://py.checkio.org/en/mission/replace-last/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Replace%20Last.py)
+* [Index Power](https://py.checkio.org/en/mission/index-power/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Index%20Power.py)
+* [Xs and Os Referee](https://py.checkio.org/en/mission/x-o-referee/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Xs%20andOs%20Referee.py)
