@@ -26,7 +26,7 @@ You can either look for solutions(.py) below or scroll [**jupyter notebook part1
 * [Sum Numbers](https://py.checkio.org/en/mission/sum-numbers/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/Home/Sum%20Numbers.py)
 
 ## O'Reily station
-You can either look for solutions(.py) below or scroll [**jupyter notebook part**](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/O'Reilly%20p.1%20%5BElementary%2C%20%2B%5D.ipynb)
+You can either look for solutions(.py) below or scroll [**jupyter notebook**] for more **comfortable** examination.(https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/O'Reilly%20p.1%20%5BElementary%2C%20%2B%5D.ipynb)
 
 * [Replace Last](https://py.checkio.org/en/mission/replace-last/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Replace%20Last.py)
 * [Index Power](https://py.checkio.org/en/mission/index-power/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Index%20Power.py)
