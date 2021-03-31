@@ -31,3 +31,7 @@ You can either look for solutions(.py) below or scroll [**jupyter notebook**](ht
 * [Replace Last](https://py.checkio.org/en/mission/replace-last/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Replace%20Last.py)
 * [Index Power](https://py.checkio.org/en/mission/index-power/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Index%20Power.py)
 * [Xs and Os Referee](https://py.checkio.org/en/mission/x-o-referee/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Xs%20andOs%20Referee.py)
+* [Majority](https://py.checkio.org/en/mission/majority/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Majority.py)
+* [Lightbulb Intro](https://py.checkio.org/en/mission/lightbulb-intro/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Light%20Bulb%20Intro.py)
+* [Remove All After](https://py.checkio.org/en/mission/remove-all-after/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/Remove%20All%20After.py)
+* [Lightbulb Start Watching](https://py.checkio.org/en/mission/lightbulb-start-watching/) - [Solution](https://github.com/Tsibulnikov/Checkio_tasks/blob/main/O'Reilly/LightBulb%20Start%20Watching.py)
